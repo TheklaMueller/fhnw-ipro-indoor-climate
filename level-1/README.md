@@ -23,15 +23,15 @@ To achieve the goals, use these blocks.
 - [ ] [Store data in CSV format into a file](#store-data-in-csv-format-into-a-file)
 - [ ] [Open a CSV file as a spreadsheet](#open-a-CSV-file-as-a-spreadsheet)
 - [ ] [Import a CSV file into a notebook](#import-a-CSV-file-into-a-notebook)
+- [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
 - [ ] [Store data into a database with SQL](#store-data-into-a-database-with-sql)
 - [ ] [Read data from a database with SQL](#read-data-from-a-database-with-sql)
-- [ ] [Run a database as a local service](#run-a-database-as-a-local-service)
+
 
 ### Use the Microbit with MakeCode
-Using the [Microbit device](https://makecode.microbit.org/device) and USB cable you already got.
-
 Here's an [introduction to the Microbit](https://github.com/tamberg/microbit-intro) with [MakeCode](https://makecode.microbit.org).
 
+- Find your [Microbit device](https://makecode.microbit.org/device) and USB cable at home
 - Open the editor https://makecode.microbit.org/
 - Connect the Microbit to your computer via USB
 - Download the .hex file to the "MICROBIT" drive
